@@ -1,0 +1,50 @@
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.loa
+*.log
+*.nav
+*.out
+*.synctex.gz
+*.toc
+*.snm
+*.vrb
+latexmkrc
+paper/build/
+poster/build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+dist/
+.eggs/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data (keep only README with instructions)
+data/*
+!data/README.md

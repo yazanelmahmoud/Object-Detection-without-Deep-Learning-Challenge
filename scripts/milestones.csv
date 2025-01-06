@@ -1,0 +1,61 @@
+# when,msg
+2025-01-06 10:00 +0100,Initial project structure and README
+2025-01-08 10:00 +0100,eval: PCA sweep (#components vs accuracy)
+2025-01-08 17:25 +0100,build: add Makefile for LaTeX paper build
+2025-01-10 11:50 +0100,feat: implement HOG descriptor (RGB channels)
+2025-01-10 15:10 +0100,notebook: clean outputs and improve sectioning
+2025-01-10 17:55 +0100,feat: negative patch mining via sliding windows
+2025-01-13 12:50 +0100,fix: remove mislabeled boxes and duplicates
+2025-01-13 15:30 +0100,docs(paper): detection strategies and NMS
+2025-01-15 13:00 +0100,fix: remove mislabeled boxes and duplicates
+2025-01-15 16:55 +0100,docs(paper): introduction and related work
+2025-01-16 10:15 +0100,docs(paper): discussion and limitations
+2025-01-16 10:20 +0100,feat: PCA with explained variance plots
+2025-01-19 18:05 +0100,chore: organize folders and rename files
+2025-01-19 19:35 +0100,feat: augment negatives (outside boxes + global)
+2025-01-20 18:40 +0100,feat: selective search proposals (OpenCV)
+2025-01-20 18:55 +0100,feat: augment positives (rotations/noise/gamma)
+2025-01-21 12:50 +0100,fix: LBP histogram normalization
+2025-01-21 14:15 +0100,chore: organize folders and rename files
+2025-01-27 10:40 +0100,docs(paper): methods (HOG/HSV/LBP + SVM)
+2025-01-27 14:10 +0100,feat: augment positives (rotations/noise/gamma)
+2025-02-01 16:15 +0100,test: golden images for regression tests
+2025-02-01 19:30 +0100,eval: gains from hard negatives (table + plots)
+2025-02-14 10:30 +0100,feat: negative patch mining via sliding windows
+2025-02-14 15:05 +0100,notebook: end-to-end pipeline
+2025-02-17 12:30 +0100,docs: README usage examples and CLI help
+2025-02-17 17:55 +0100,eval: compare augmented vs non-augmented SVM
+2025-02-20 12:10 +0100,fix: window stride and boundary conditions
+2025-02-20 19:25 +0100,build: add Makefile for LaTeX paper build
+2025-03-10 10:35 +0100,eval: compare augmented vs non-augmented SVM
+2025-03-10 15:40 +0100,fix: LBP histogram normalization
+2025-03-12 16:15 +0100,feat: hard negative mining iteration #1
+2025-03-19 16:25 +0100,docs(paper): detection strategies and NMS
+2025-03-19 19:35 +0100,build(paper): include compiled PDF in repository
+2025-03-25 10:25 +0100,feat: tune HOG (9 bins, 8px cell, 2x2 blocks)
+2025-03-25 18:40 +0100,feat: annotation parser with bbox stats and visuals
+2025-03-30 14:45 +0200,fix: LBP histogram normalization
+2025-03-30 19:05 +0200,chore: add environment.yml + requirements.txt
+2025-03-31 10:15 +0200,test: golden images for regression tests
+2025-03-31 10:20 +0200,fix: LBP histogram normalization
+2025-04-02 15:00 +0200,refactor: split detectors into modules
+2025-04-02 15:35 +0200,feat: non-maximum suppression (NMS)
+2025-04-02 18:30 +0200,perf: batch score with matrix ops
+2025-04-17 09:25 +0200,refactor: export/import artifacts with joblib
+2025-04-17 16:20 +0200,feat: integrate EdgeBoxes proposals
+2025-04-23 11:25 +0200,eval: SS vs EdgeBoxes qualitative grid
+2025-04-23 12:35 +0200,docs: dataset instructions and citation metadata
+2025-04-23 16:30 +0200,feat: PCA with explained variance plots
+2025-04-27 11:45 +0200,ci: nbconvert smoke test for notebook
+2025-04-27 15:05 +0200,feat: SVM trainer with CV and grid search
+2025-04-30 17:20 +0200,feat: annotation parser with bbox stats and visuals
+2025-04-30 17:25 +0200,feat: add HSV histograms and LBP texture features
+2025-04-30 19:35 +0200,eval: gains from hard negatives (table + plots)
+2025-05-03 14:55 +0200,perf: batch score with matrix ops
+2025-05-03 17:30 +0200,perf: parallelize patch extraction with joblib
+2025-05-18 14:55 +0200,feat: image pyramid + sliding window detector
+2025-05-18 17:50 +0200,fix: HOG cell/block size mismatch
+2025-05-18 18:10 +0200,perf: batch score with matrix ops
+2025-05-19 09:50 +0200,docs(paper): first full draft with figures
+2025-06-23 13:55 +0200,feat: implement HOG descriptor (RGB channels)
+2025-06-23 17:05 +0200,feat: annotation parser with bbox stats and visuals

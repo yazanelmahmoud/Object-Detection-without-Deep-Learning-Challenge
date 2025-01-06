@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Object Detection without Deep Learning Challenge"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "El_Mahmoud"
+    given-names: "Yazan"
+version: "1.0.0"
+date-released: "2025-06-30"
+repository-code: "https://github.com/yazanelmahmoud/Object-Detection-without-Deep-Learning-Challenge"
+license: "MIT"
