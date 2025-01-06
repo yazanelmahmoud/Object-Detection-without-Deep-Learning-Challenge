@@ -241,3 +241,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-06 10:00 +0100 — Initial project structure and README
+
+- devlog: captured by commit replay
+
