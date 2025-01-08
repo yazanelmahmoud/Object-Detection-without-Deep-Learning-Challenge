@@ -245,3 +245,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-08 10:00 +0100 — eval: PCA sweep (#components vs accuracy)
+
+- devlog: captured by commit replay
+
