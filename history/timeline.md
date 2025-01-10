@@ -257,3 +257,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-10 15:10 +0100 — notebook: clean outputs and improve sectioning
+
+- devlog: captured by commit replay
+
