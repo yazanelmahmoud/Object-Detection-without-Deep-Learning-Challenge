@@ -269,3 +269,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-13 15:30 +0100 — docs(paper): detection strategies and NMS
+
+- devlog: captured by commit replay
+
