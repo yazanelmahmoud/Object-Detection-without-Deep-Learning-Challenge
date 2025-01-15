@@ -273,3 +273,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-15 13:00 +0100 — fix: remove mislabeled boxes and duplicates
+
+- devlog: captured by commit replay
+
