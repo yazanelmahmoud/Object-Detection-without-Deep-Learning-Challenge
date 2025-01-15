@@ -277,3 +277,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-15 16:55 +0100 — docs(paper): introduction and related work
+
+- devlog: captured by commit replay
+
