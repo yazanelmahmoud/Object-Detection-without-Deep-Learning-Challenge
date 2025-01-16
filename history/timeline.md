@@ -281,3 +281,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-16 10:15 +0100 — docs(paper): discussion and limitations
+
+- devlog: captured by commit replay
+
