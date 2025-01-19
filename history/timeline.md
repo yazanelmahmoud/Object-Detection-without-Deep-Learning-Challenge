@@ -293,3 +293,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-19 19:35 +0100 — feat: augment negatives (outside boxes + global)
+
+- devlog: captured by commit replay
+
