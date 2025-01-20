@@ -297,3 +297,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-20 18:40 +0100 — feat: selective search proposals (OpenCV)
+
+- devlog: captured by commit replay
+
