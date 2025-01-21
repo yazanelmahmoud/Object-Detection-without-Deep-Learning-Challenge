@@ -305,3 +305,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-21 12:50 +0100 — fix: LBP histogram normalization
+
+- devlog: captured by commit replay
+
