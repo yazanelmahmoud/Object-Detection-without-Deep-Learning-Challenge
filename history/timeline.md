@@ -309,3 +309,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-21 14:15 +0100 — chore: organize folders and rename files
+
+- devlog: captured by commit replay
+
