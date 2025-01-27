@@ -313,3 +313,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-27 10:40 +0100 — docs(paper): methods (HOG/HSV/LBP + SVM)
+
+- devlog: captured by commit replay
+
