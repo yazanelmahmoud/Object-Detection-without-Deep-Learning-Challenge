@@ -317,3 +317,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-01-27 14:10 +0100 — feat: augment positives (rotations/noise/gamma)
+
+- devlog: captured by commit replay
+
