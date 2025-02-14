@@ -329,3 +329,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-02-14 10:30 +0100 — feat: negative patch mining via sliding windows
+
+- devlog: captured by commit replay
+
