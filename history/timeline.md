@@ -333,3 +333,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-02-14 15:05 +0100 — notebook: end-to-end pipeline
+
+- devlog: captured by commit replay
+
