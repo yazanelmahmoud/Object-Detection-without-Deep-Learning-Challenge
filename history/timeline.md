@@ -337,3 +337,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-02-17 12:30 +0100 — docs: README usage examples and CLI help
+
+- devlog: captured by commit replay
+
