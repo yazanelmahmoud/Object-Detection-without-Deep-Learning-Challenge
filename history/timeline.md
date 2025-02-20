@@ -349,3 +349,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-02-20 19:25 +0100 — build: add Makefile for LaTeX paper build
+
+- devlog: captured by commit replay
+
