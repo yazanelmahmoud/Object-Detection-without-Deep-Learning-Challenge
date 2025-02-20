@@ -345,3 +345,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-02-20 12:10 +0100 — fix: window stride and boundary conditions
+
+- devlog: captured by commit replay
+
