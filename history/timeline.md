@@ -353,3 +353,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-03-10 10:35 +0100 — eval: compare augmented vs non-augmented SVM
+
+- devlog: captured by commit replay
+
