@@ -361,3 +361,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-03-12 16:15 +0100 — feat: hard negative mining iteration #1
+
+- devlog: captured by commit replay
+
