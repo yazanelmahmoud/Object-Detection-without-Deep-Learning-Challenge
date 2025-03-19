@@ -369,3 +369,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-03-19 19:35 +0100 — build(paper): include compiled PDF in repository
+
+- devlog: captured by commit replay
+
