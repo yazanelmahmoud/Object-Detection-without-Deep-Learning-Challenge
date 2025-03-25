@@ -373,3 +373,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-03-25 10:25 +0100 — feat: tune HOG (9 bins, 8px cell, 2x2 blocks)
+
+- devlog: captured by commit replay
+
