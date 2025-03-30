@@ -385,3 +385,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-03-30 19:05 +0200 — chore: add environment.yml + requirements.txt
+
+- devlog: captured by commit replay
+
