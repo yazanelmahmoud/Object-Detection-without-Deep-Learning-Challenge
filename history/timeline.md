@@ -389,3 +389,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-03-31 10:15 +0200 — test: golden images for regression tests
+
+- devlog: captured by commit replay
+
