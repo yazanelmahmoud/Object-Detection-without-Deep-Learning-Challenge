@@ -401,3 +401,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-02 15:35 +0200 — feat: non-maximum suppression (NMS)
+
+- devlog: captured by commit replay
+
