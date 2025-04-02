@@ -405,3 +405,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-02 18:30 +0200 — perf: batch score with matrix ops
+
+- devlog: captured by commit replay
+
