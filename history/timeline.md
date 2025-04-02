@@ -397,3 +397,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-02 15:00 +0200 — refactor: split detectors into modules
+
+- devlog: captured by commit replay
+
