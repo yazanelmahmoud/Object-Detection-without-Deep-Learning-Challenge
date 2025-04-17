@@ -409,3 +409,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-17 09:25 +0200 — refactor: export/import artifacts with joblib
+
+- devlog: captured by commit replay
+
