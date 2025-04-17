@@ -413,3 +413,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-17 16:20 +0200 — feat: integrate EdgeBoxes proposals
+
+- devlog: captured by commit replay
+
