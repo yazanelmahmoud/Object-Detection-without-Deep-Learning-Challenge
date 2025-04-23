@@ -425,3 +425,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-23 16:30 +0200 — feat: PCA with explained variance plots
+
+- devlog: captured by commit replay
+
