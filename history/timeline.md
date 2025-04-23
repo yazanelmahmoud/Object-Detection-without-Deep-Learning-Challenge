@@ -421,3 +421,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-23 12:35 +0200 — docs: dataset instructions and citation metadata
+
+- devlog: captured by commit replay
+
