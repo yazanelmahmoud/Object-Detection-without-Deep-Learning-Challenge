@@ -417,3 +417,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-23 11:25 +0200 — eval: SS vs EdgeBoxes qualitative grid
+
+- devlog: captured by commit replay
+
