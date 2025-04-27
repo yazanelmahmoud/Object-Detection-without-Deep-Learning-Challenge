@@ -433,3 +433,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-27 15:05 +0200 — feat: SVM trainer with CV and grid search
+
+- devlog: captured by commit replay
+
