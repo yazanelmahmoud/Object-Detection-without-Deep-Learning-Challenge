@@ -429,3 +429,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-27 11:45 +0200 — ci: nbconvert smoke test for notebook
+
+- devlog: captured by commit replay
+
