@@ -441,3 +441,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-30 17:25 +0200 — feat: add HSV histograms and LBP texture features
+
+- devlog: captured by commit replay
+
