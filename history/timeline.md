@@ -445,3 +445,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-04-30 19:35 +0200 — eval: gains from hard negatives (table + plots)
+
+- devlog: captured by commit replay
+
