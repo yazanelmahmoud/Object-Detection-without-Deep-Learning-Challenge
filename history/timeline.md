@@ -453,3 +453,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-05-03 17:30 +0200 — perf: parallelize patch extraction with joblib
+
+- devlog: captured by commit replay
+
