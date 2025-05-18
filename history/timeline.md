@@ -461,3 +461,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-05-18 17:50 +0200 — fix: HOG cell/block size mismatch
+
+- devlog: captured by commit replay
+
