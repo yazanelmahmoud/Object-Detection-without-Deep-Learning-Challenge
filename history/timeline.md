@@ -457,3 +457,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-05-18 14:55 +0200 — feat: image pyramid + sliding window detector
+
+- devlog: captured by commit replay
+
