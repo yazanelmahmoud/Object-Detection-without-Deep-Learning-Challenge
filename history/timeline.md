@@ -469,3 +469,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-05-19 09:50 +0200 — docs(paper): first full draft with figures
+
+- devlog: captured by commit replay
+
