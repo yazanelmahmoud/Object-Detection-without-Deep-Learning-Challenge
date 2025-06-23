@@ -473,3 +473,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-06-23 13:55 +0200 — feat: implement HOG descriptor (RGB channels)
+
+- devlog: captured by commit replay
+
