@@ -477,3 +477,7 @@ This file will be appended by the replay script.
 
 - devlog: captured by commit replay
 
+## 2025-06-23 17:05 +0200 — feat: annotation parser with bbox stats and visuals
+
+- devlog: captured by commit replay
+
